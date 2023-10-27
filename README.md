@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">I am passionate about Open Source</h3>
-![programming](https://github.com/ChrisChurilo/ChrisChurilo/assets/22224436/243ab462-cbba-4707-849f-3d6fc6c0d51c)
+
+![Programming GIF](https://tenor.com/view/programming-gif-25868426)
 
 - 🔭 I’m currently working at [Zilliz](https://zilliz.com/) | the managed version of open source [Milvus](https://github.com/milvus-io/milvus)
 
 - 🌱 I’m currently learning **Python**
 
-- 📝 I regularly write articles on [https://dev.to/chrischurilo](https://dev.to/chrischurilo)
+- 📝 I regularly write articles on [Dev.to](https://dev.to/chrischurilo)
 
 - 💬 Ask me about **[Timeseries](https://www.influxdata.com/) and [Vector Databases](https://milvus.io/)**
 
