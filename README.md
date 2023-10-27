@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">I am passionate about Open Source</h3>
 
+![Programming GIF](https://tenor.com/view/programming-gif-25868426)
+
 - 🔭 I’m currently working at [Zilliz](https://zilliz.com/) | the managed version of open source [Milvus](https://github.com/milvus-io/milvus)
 
 - 🌱 I’m currently learning **Python**
@@ -21,7 +23,7 @@
 <h3 align="left">Databases:</h3>
 <p align="left"> 
 
-<a href="https://milvus.io/" target="_blank" rel="noreferrer"> <img src="[https://github.com/milvus-io/artwork/blob/master/horizontal/color/milvus-horizontal-color.svg](https://github.com/milvus-io/artwork/blob/master/stacked/color/milvus-stacked-color.svg)" alt="Milvus" width="40" height="40"/> </a>
+<a href="https://milvus.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/milvus-io/artwork/blob/master/stacked/color/milvus-stacked-color.svg" alt="Milvus" width="40" height="40"/> </a>
 
  </p>
 
