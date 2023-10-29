@@ -25,7 +25,8 @@
 <h3 align="left">Databases:</h3>
 <p align="left"> 
 
-<a href="https://milvus.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/milvus-io/artwork/blob/master/stacked/color/milvus-stacked-color.svg" alt="Milvus" width="40" height="40"/> </a>
+<a href="https://milvus.io/" target="blank" rel="noreferrer"> <img src="https://github.com/milvus-io/artwork/blob/master/stacked/color/milvus-stacked-color.svg" alt="Milvus" width="40" height="40"/> </a>
+<a href="https://influxdata.com/" target="blank" rel="noreferrer"> <img src="[https://github.com/milvus-io/artwork/blob/master/stacked/color/milvus-stacked-color.svg](https://avatars.githubusercontent.com/u/5713248?s=200&v=4)" alt="IfluxDB" width="40" height="40"/> </a>
 
  </p>
 
@@ -48,3 +49,5 @@
 - [Introduction to Unstructured Data](https://zilliz.com/learn/introduction-to-unstructured-data)
 - [Comparing Vector Databases, Vector Search Libraries, and Vector Search Plugins](https://zilliz.com/learn/comparing-vector-database-vector-search-library-and-vector-search-plugin)
 - [Introduction to Milvus Vector Database](https://zilliz.com/learn/introduction-to-milvus-vector-database)
+
+
