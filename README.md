@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">I am passionate about Open Source</h3>
 
-![Programming GIF]([https://tenor.com/view/programming-gif-25868426](https://github.com/ChrisChurilo/ChrisChurilo/blob/main/programming.gif))
+![Programming GIF](https://github.com/ChrisChurilo/ChrisChurilo/blob/main/programming.gif)
 
 - 🔭 I’m currently working at [Zilliz](https://zilliz.com/) | the managed version of open source [Milvus](https://github.com/milvus-io/milvus)
 
