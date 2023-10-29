@@ -26,7 +26,7 @@
 <p align="left"> 
 
 <a href="https://milvus.io/" target="blank" rel="noreferrer"> <img src="https://github.com/milvus-io/artwork/blob/master/stacked/color/milvus-stacked-color.svg" alt="Milvus" width="40" height="40"/> </a>
-<a href="https://influxdata.com/" target="blank" rel="noreferrer"> <img src="[https://github.com/milvus-io/artwork/blob/master/stacked/color/milvus-stacked-color.svg](https://avatars.githubusercontent.com/u/5713248?s=200&v=4)" alt="IfluxDB" width="40" height="40"/> </a>
+<a href="https://influxdata.com/" target="blank" rel="noreferrer"> <img src="[https://github.com/milvus-io/artwork/blob/master/stacked/color/milvus-stacked-color.svg](https://avatars.githubusercontent.com/u/5713248?s=200&v=4)" alt="InfluxDB" width="40" height="40"/> </a>
 
  </p>
 
