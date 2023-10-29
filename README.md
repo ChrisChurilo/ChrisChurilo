@@ -1,7 +1,8 @@
 <h1 align="center">Hello world, 👋, I'm Chris</h1>
 <h3 align="center">I am passionate about Open Source</h3>
 
-![Programming GIF](https://github.com/ChrisChurilo/ChrisChurilo/blob/main/programming.gif)
+<img align="right" alt="Programming Gif" src="https://github.com/ChrisChurilo/ChrisChurilo/blob/main/programming.gif" width="500" height="320" />
+
 
 - 🔭 I’m currently working at [Zilliz](https://zilliz.com/) | the managed version of open source [Milvus](https://github.com/milvus-io/milvus)
 
