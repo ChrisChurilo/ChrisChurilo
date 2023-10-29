@@ -4,7 +4,8 @@
 <img align="right" alt="Programming Gif" src="https://github.com/ChrisChurilo/ChrisChurilo/blob/main/programming.gif" width="500" height="320" />
 
 <h3 align="left">About me:</h3>
-- 🔭 I’m currently working at [Zilliz](https://zilliz.com/) | the managed version of open source [Milvus](https://github.com/milvus-io/milvus)
+
+- 🔭 I’m currently working at **[Zilliz](https://zilliz.com/)** | the managed version of open source **[Milvus](https://github.com/milvus-io/milvus)**
 
 - 🌱 I’m currently learning **Python**
 
@@ -13,7 +14,7 @@
 - 💬 Ask me about **[Timeseries](https://www.influxdata.com/) and [Vector Databases](https://milvus.io/)**
 
 - ⚡ Fun fact **I teach people how to teach paddle boarding**
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/chrischurilo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/chrischurilo" height="30" width="40" /></a>
@@ -42,4 +43,5 @@
 </p>
 
 <h3 align="left">Learn about Vector Databases:</h3>
+
 - [What is a Vector Database?](https://zilliz.com/learn/what-is-vector-database)
