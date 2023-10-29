@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chris</h1>
+<h1 align="center">Hello world, 👋, I'm Chris</h1>
 <h3 align="center">I am passionate about Open Source</h3>
 
 ![Programming GIF](https://github.com/ChrisChurilo/ChrisChurilo/blob/main/programming.gif)
