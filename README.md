@@ -45,3 +45,6 @@
 <h3 align="left">Learn about Vector Databases:</h3>
 
 - [What is a Vector Database?](https://zilliz.com/learn/what-is-vector-database)
+- [Introduction to Unstructured Data](https://zilliz.com/learn/introduction-to-unstructured-data)
+- [Comparing Vector Databases, Vector Search Libraries, and Vector Search Plugins](https://zilliz.com/learn/comparing-vector-database-vector-search-library-and-vector-search-plugin)
+- [Introduction to Milvus Vector Database](https://zilliz.com/learn/introduction-to-milvus-vector-database)
